@@ -2,6 +2,12 @@ package exercicios;
 
 import java.util.Scanner;
 
+/**
+ * @author Hebert Souza
+ * @since 2025-19-07
+ * @version 0.1
+ */
+
 public class AreaCircureferencia {
     public static void main(String[] args) {
         
